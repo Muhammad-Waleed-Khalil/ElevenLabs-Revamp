@@ -611,6 +611,3 @@ This project is private and proprietary.
 
 ---
 
-<p align="center">
-  Built with ❤️ using Next.js, tRPC, and Prisma
-</p>
